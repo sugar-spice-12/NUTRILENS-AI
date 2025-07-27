@@ -5,13 +5,13 @@ NutriLens AI is a modern, web-based nutrition assistant that uses the power of G
 ## 🖼️ App Screenshots
 
 ### 📱 Home Screen
-![Home Screen](screenshots/home_page.png)
+![Home Scree](https://raw.githubusercontent.com/sugar-spice-12/NUTRILENS-AI/main/home_page.png)
 
 ### 🍛 Food Detection Example
-![Food Detection](screenshots/food_detection_result.png)
+![Food Detection](https://raw.githubusercontent.com/sugar-spice-12/NUTRILENS-AI/main/food_detection_result.png)
 
 ### 🥗 Personalized Diet Advice
-![Diet Advice](screenshots/diet_advice.png)
+![Diet Advice](https://raw.githubusercontent.com/sugar-spice-12/NUTRILENS-AI/main/diet_advice.png)
 
 
 ---
