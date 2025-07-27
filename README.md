@@ -2,7 +2,7 @@
 
 NutriLens AI is a modern, web-based nutrition assistant that uses the power of Google's Gemini AI to help you understand your meals and get personalized dietary advice. Simply upload a photo of your food to get an instant nutritional breakdown, or generate a full day's diet plan tailored to your specific health needs.
 
-!## 🖼️ App Screenshots
+## 🖼️ App Screenshots
 
 ### 📱 Home Screen
 ![Home Screen](screenshots/home_page.png)
