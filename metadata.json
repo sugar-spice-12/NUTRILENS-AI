@@ -1,0 +1,8 @@
+
+{
+  "name": "NutriLens AI",
+  "description": "An AI-powered nutrition assistant that analyzes meals from images and provides personalized diet plans based on your health profile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
